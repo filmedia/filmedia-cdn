@@ -1,0 +1,22 @@
+.cookie-consent{
+	border-top: 1px solid #140921;
+	position: fixed;
+	background-color: #F0EEF5;
+	bottom: 0;
+	width: 100%;
+	z-index: 999999;
+	text-align: center;
+	padding: 10px;
+	 font-family: 'Dosis', sans-serif;
+	 font-size: 16px;
+	 color: #F0EEF5;
+}	
+.cookie-consent__message{
+	color: #140921;
+}
+.cookie-consent__agree{
+	background-color: #140921;
+	border: none;
+	padding: 10px;
+	 font-family: 'Dosis', sans-serif;
+}
