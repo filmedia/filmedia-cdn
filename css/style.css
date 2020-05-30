@@ -5929,9 +5929,9 @@ ul {
 .social-btn .hover-bnt a {
  cursor: pointer;
 }
-.social-btn .hover-bnt i:hover {
+/*.social-btn .hover-bnt i:hover {
   color:gold;
- }
+ }*/
 
 @media (max-width: 767px) {
 }
